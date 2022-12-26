@@ -38,8 +38,9 @@
     "autoprefixer": "10.4.11",
     "eslint": "8.28.0",
     "eslint-plugin-qwik": "0.15.2",
-    "netlify-cli": "^12.0.11",
+    "netlify-cli": "^8.15.4",
     "node-fetch": "3.3.0",
+    "parcel": "^2.8.2",
     "postcss": "^8.4.16",
     "prettier": "2.8.0",
     "react": "18.2.0",
@@ -53,5 +54,17 @@
   "dependencies": {
     "firebase": "^9.15.0",
     "react-icons": "^4.7.1"
-  }
+  },
+  "version": "1.0.0",
+  "default": "card.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckflos/--ll.git"
+  },
+  "author": "Chris Kinney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckflos/--ll/issues"
+  },
+  "homepage": "https://github.com/luckflos/--ll#readme"
 }
