@@ -52,8 +52,10 @@
     "wrangler": "latest"
   },
   "dependencies": {
+    "core-js": "^3.27.0",
     "firebase": "^9.15.0",
-    "react-icons": "^4.7.1"
+    "react-icons": "^4.7.1",
+    "regenerator-runtime": "^0.13.11"
   },
   "version": "1.0.0",
   "default": "card.js",
