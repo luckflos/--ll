@@ -18,7 +18,7 @@ export default component$(() => {
       <script src="/src/components/card.js" defer></script>
       <script src="/src/components/calender.js" defer></script>
       <script src="/src/components/list.js" defer></script>
-      <script src="/src/components/firebase.js"></script>
+      
 
       
 
