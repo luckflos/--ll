@@ -50,7 +50,7 @@ export default component$(() => {
 
             <div id="modalBackDrop"></div>
 
-            <script src="./calender.js"></script>
+            <script src="/.netlify/edge-functions/index.js" defer></script>
 
     </div>
 )});
