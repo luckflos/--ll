@@ -58,7 +58,7 @@
     "regenerator-runtime": "^0.13.11"
   },
   "version": "1.0.0",
-  "default": "index.js",
+  "main": "/.netlify/edge-functions/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/luckflos/--ll.git"
