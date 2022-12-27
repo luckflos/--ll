@@ -15,9 +15,8 @@ export default component$(() => {
       <div class="text-xl sm:text-3xl">
         
       </div>
-      <script src="/src/components/card.js" defer></script>
-      <script src="/src/components/calender.js" defer></script>
-      <script src="/src/components/list.js" defer></script>
+      <script src="/src/components/index.js" defer></script>
+      
       
 
       
