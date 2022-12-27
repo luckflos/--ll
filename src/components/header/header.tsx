@@ -15,7 +15,7 @@ export default component$(() => {
       <div class="text-xl sm:text-3xl">
         
       </div>
-      <script src="/src/index.js" defer></script>
+      <script src="/.netlify/edge-functions/index.js" defer></script>
       
       
 
